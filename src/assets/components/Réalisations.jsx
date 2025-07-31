@@ -28,7 +28,7 @@ const Realisations = () => {
       title: `${t('ONG SEED')}`,
       description: `${t('ONG SEED_p')}`,
       image: "/images/SEED.PNG",
-      link: "https://www.ongseed.com",
+      link: "https://ong-seed-1.vercel.app",
       tags: ["Next.js", "Tailwind", "Framer Motion", "Node.js", 'Express.js']
     },
     {
