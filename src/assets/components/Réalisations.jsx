@@ -28,7 +28,7 @@ const Realisations = () => {
       title: `${t('ONG SEED')}`,
       description: `${t('ONG SEED_p')}`,
       image: "/images/SEED.PNG",
-      link: "https://ong-seed-1.vercel.app",
+      link: "https://www.ongseed.com",
       tags: ["Next.js", "Tailwind", "Framer Motion", "Node.js", 'Express.js']
     },
     {
@@ -145,3 +145,4 @@ const Realisations = () => {
 };
 
 export default Realisations;
+
