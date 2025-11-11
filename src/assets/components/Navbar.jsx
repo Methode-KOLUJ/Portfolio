@@ -77,7 +77,7 @@ const Navbar = () => {
     { name: `${t('Qui?')}`, href: "#apropos" },
     { name: `${t('Services')}`, href: "#Services" },
     { name: `${t('Réalisation')}`, href: "#Realisations" },
-    { name: `${t('Actualités')}`, href: "https://kolujdev.blogspot.com" },
+    { name: `${t('Actualités')}`, href: "https://www.facebook.com/profile.php?id=61568528376113" },
     { name: `${t('Contact')}`, href: "#contacts" },
   ];
 
@@ -210,5 +210,6 @@ const Navbar = () => {
     </motion.nav>
   );
 };
+
 
 export default Navbar;
